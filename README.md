@@ -11,7 +11,7 @@ The WPFCustomMessageBox message boxes return [standard .NET MessageBoxResults](h
 
 ## Downloading and Installing ##
 
-[WPFCustomMessageBox is available via NuGet](https://www.nuget.org/packages/WPFCustomMessageBox/).
+[WPFCustomMessageBox is available via NuGet](https://www.nuget.org/packages/WPFCustomMessageBox.Fork/).
 
 ## Usage ##
 
@@ -64,6 +64,8 @@ The WPFCustomMessageBox library provides customizable equivalents of all .NET Me
 ## License ##
 
 **The MIT License**
+
+Copyright (c) 2018 Nate Shoffner
 
 Copyright (c) 2013 Evan Wondrasek / Apricity Software LLC
 
